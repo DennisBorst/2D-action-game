@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: b335bce1983ceb440aa808597293d097
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Witch_Rigibody_0
+    21300002: Witch_Rigibody_1
+    21300004: Witch_Rigibody_2
+    21300006: Witch_Rigibody_3
+    21300008: Witch_Rigibody_4
+    21300010: Witch_Rigibody_5
+    21300012: Witch_Rigibody_6
+    21300014: Witch_Rigibody_7
+    21300016: Witch_Rigibody_8
+    21300018: Witch_Rigibody_9
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Witch_Rigibody_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 360
+        width: 138
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5018451, y: 0.08011481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cad5d48e0694e46a72451b92858514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_Rigibody_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 275
+        width: 122
+        height: 80
+      alignment: 9
+      pivot: {x: 0.477523, y: 0.13794442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b9716805dab747b690b8def543f26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_Rigibody_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 179
+        width: 87
+        height: 92
+      alignment: 9
+      pivot: {x: 0.46902642, y: 0.07898347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24652134293c6bd4892e8bbcbaa52ac6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_Rigibody_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 112
+        width: 41
+        height: 55
+      alignment: 9
+      pivot: {x: 0.83398527, y: 0.91132903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9384bb18d7a1c349b68e5802ce85b27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_Rigibody_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 112
+        width: 43
+        height: 55
+      alignment: 9
+      pivot: {x: 0.08867054, y: 0.88124895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10ee4bbb8fba044b867a79794422788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_Rigibody_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 61
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6400093, y: 0.741172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea156b2915b6de48aca5a5787ed90d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_Rigibody_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 59
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0.45024258, y: 0.7016319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958b82fa5ac6f144da87541f511d46bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_Rigibody_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a111dd1c4cca29b48ba0d6b3769b5e07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_Rigibody_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5e38f3f61c730459def34193717eb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 21c4e09d387ffbf44a9588e9498bca70
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
